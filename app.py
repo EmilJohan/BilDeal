@@ -65,7 +65,7 @@ def predict():
 
         return render_template(
             'index.html',
-            prediction=f"Estimated Price: ${predicted_price[0]*10:,.2f}NOK",
+            prediction=f"Estimated Price: {predicted_price[0]*10:,.2f}NOK",
             form_data=form_data
         )
     except Exception as e:
