@@ -13,6 +13,8 @@ A Flask web application that predicts the price of used cars based on user-provi
 - Emil Molberg/672630@stud.hvl.no
 - Jakob Bang/669847@stud.hvl.no
 
+## The model file itself was to big to be uploaded onto github.
+## But the notebook and all the data is there!
 
 ## How to Run the Application
 
